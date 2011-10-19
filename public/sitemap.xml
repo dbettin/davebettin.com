@@ -2,10 +2,14 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://davebettin.com/blog/archives/</loc>
-        <lastmod>2011-10-17T15:31:02-07:00</lastmod>
+        <lastmod>2011-10-18T22:26:15-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davebettin.com/about/</loc>
+        <lastmod>2011-10-18T22:37:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://davebettin.com/</loc>
-        <lastmod>2011-10-17T15:31:02-07:00</lastmod>
+        <lastmod>2011-10-18T22:26:15-07:00</lastmod>
     </url>
 </urlset>

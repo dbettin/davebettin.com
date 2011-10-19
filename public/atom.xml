@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bettin' on Simplicty]]></title>
+  <title><![CDATA[Bettin' on Simplicity]]></title>
   <link href="http://davebettin.com/atom.xml" rel="self"/>
   <link href="http://davebettin.com/"/>
-  <updated>2011-10-17T19:13:30-07:00</updated>
+  <updated>2011-10-18T22:46:14-07:00</updated>
   <id>http://davebettin.com/</id>
   <author>
     <name><![CDATA[Dave Bettin]]></name>
-    
+    <email><![CDATA[me@davebettin.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
