@@ -6,6 +6,7 @@ comments: false
 sharing: false
 footer: false
 ---
+<p><img src="/images/family.jpg" width="250" height="250"></p>
 
 <p>First and foremost, I am a family man. I am married to my best friend and have three wonderful mini Bettins. Without any question, I am the happiest when we are spending time together as a family. We live in a beautiful mountain town in Oregon named Bend. Have you heard of Bend? if not, check it <a href="http://www.visitbend.com/Discover-Bend-OR/Media-Gallery/">out</a>.</p>
 
