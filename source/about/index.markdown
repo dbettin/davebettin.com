@@ -12,9 +12,9 @@ footer: false
 
 <p>I love doing a lot of different things and investing in new experiences. I wish had more time to learn about other interesting things.</p> 
 
-<p> I am currently a co-founder at a very early stage financial data software company. Over the past 14 years, I have worked on my fair share of software gigs; some of them I've enjoyed, others not so much. I hope to continue to do what I enjoy.</p>
+<p> I am currently a co-founder at an early stage financial data software company. Over the past 14 years, I have worked on my fair share of software gigs; some of them I've enjoyed, others not so much. I hope to continue to do what I enjoy.</p>
  
-<p> Technically, I don't prescribe to any religion or align with any dogma; I select the technologies that help me get shit done. I love writing code in C#, Io, Javascript and sometimes Ruby. I enjoy working on web apis, big data and solving those pesky type of problems.</p>
+<p> Technically, I don't prescribe to any religion or align with any dogma; I select the technologies that help me get stuff done. I love writing code in C#, Io, Javascript and sometimes Ruby. I enjoy working on web apis, big data and solving those pesky type of problems.</p>
 
 <p>I continuously strive to find the simplicity in everything, however, I usually fail in doing so.</p>
 
