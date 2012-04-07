@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bettin' on Simplicity]]></title>
-  <link href="http://davebettin.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: webapi | Bettin' on Simplicity]]></title>
+  <link href="http://davebettin.com/blog/categories/webapi/atom.xml" rel="self"/>
   <link href="http://davebettin.com/"/>
   <updated>2012-04-07T16:11:09-07:00</updated>
   <id>http://davebettin.com/</id>
